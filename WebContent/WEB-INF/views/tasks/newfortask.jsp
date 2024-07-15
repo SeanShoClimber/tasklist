@@ -8,7 +8,7 @@
             <c:import url="_formfortask.jsp" />
         </form>
 
-        <p><a href="${pageContext.request.contextPath}"/index">一覧へ戻る</a></p>
+        <p><a href="${pageContext.request.contextPath}/index">一覧へ戻る</a></p>
 
     </c:param>
 </c:import>
